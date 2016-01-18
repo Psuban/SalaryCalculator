@@ -45,11 +45,8 @@ namespace ConsoleApplication2
             string Towards_tax_you_pay = "Towards tax you anually pay £";
             string Towards_NI_you_pay = "Towards NI you anually pay £";
             string Towards_SL_you_pay = "Towards SL you anually pay £";
-
-
-
-
-
+            
+       
             if (Customer_salary < tax_free_amount && Customer_salary <= NI_free)
             {
                 double Take_home_salary = Customer_salary;
@@ -106,6 +103,12 @@ namespace ConsoleApplication2
                     Console.WriteLine(Towards_NI_you_pay + NI_contribution);
                     Console.WriteLine("Your take home salary is £" + Take_home_salary);
                 }
+
+                // projects notes
+               // how much Student loan left, when will it be paid off, how much interest will you pay by the end of the year
+                // change student loan year question to when did you start university
+                // how many years where you at university
+
             }
         }                
     }
