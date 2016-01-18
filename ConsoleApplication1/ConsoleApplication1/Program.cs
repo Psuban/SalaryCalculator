@@ -26,18 +26,16 @@ namespace ConsoleApplication2
 
         public static void SalaryCalculator()
         {
-
-
             Console.Write("\nWhat's your annual salary? £");
             double Customer_salary = Convert.ToDouble(Console.ReadLine());
             Console.Write("\nDo you have a student loan ?");
             string Student_loan_answer = Console.ReadLine();
             Console.Write("\nWhen was your student loan taken? ");
             int Year_of_SL = Int32.Parse(Console.ReadLine());
-            double tax_free_amount = 10600;
-            double first_tax_band = 42385;
-            double NI_free = 8060;
-            double Student_Loan_free = 17335;
+            double tax_free_amount = 10599.99;
+            double first_tax_band = 42384.99;
+            double NI_free = 8059.99;
+            double Student_Loan_free = 17334.99;
             double taxable_salary = Customer_salary - tax_free_amount;
             double NIable_salary = Customer_salary - NI_free;
             double SLable_salary = Customer_salary - Student_Loan_free;
@@ -103,6 +101,8 @@ namespace ConsoleApplication2
                     Console.WriteLine(Towards_NI_you_pay + NI_contribution);
                     Console.WriteLine("Your take home salary is £" + Take_home_salary);
                 }
+
+                else
 
                 // projects notes
                // how much Student loan left, when will it be paid off, how much interest will you pay by the end of the year
