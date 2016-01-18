@@ -1,0 +1,12 @@
+\\ukfiler01.emea.global.root\spurushothmakumar\My Documents\Metals\exercises\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+\\ukfiler01.emea.global.root\spurushothmakumar\My Documents\Metals\exercises\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+\\ukfiler01.emea.global.root\spurushothmakumar\My Documents\Metals\exercises\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+\\ukfiler01.emea.global.root\spurushothmakumar\My Documents\Metals\exercises\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+\\ukfiler01.emea.global.root\spurushothmakumar\My Documents\Metals\exercises\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+\\ukfiler01.emea.global.root\spurushothmakumar\My Documents\Metals\exercises\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+U:\Metals\exercises\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+U:\Metals\exercises\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+U:\Metals\exercises\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+U:\Metals\exercises\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+U:\Metals\exercises\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+U:\Metals\exercises\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
