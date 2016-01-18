@@ -10,3 +10,9 @@ U:\Metals\exercises\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApp
 U:\Metals\exercises\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
 U:\Metals\exercises\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
 U:\Metals\exercises\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+U:\Personal\GitPractice\SalaryCalculator\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+U:\Personal\GitPractice\SalaryCalculator\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+U:\Personal\GitPractice\SalaryCalculator\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+U:\Personal\GitPractice\SalaryCalculator\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+U:\Personal\GitPractice\SalaryCalculator\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+U:\Personal\GitPractice\SalaryCalculator\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
