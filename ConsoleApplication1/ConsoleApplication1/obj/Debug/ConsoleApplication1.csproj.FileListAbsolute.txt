@@ -1,0 +1,6 @@
+U:\Personal\GitPractice\SalaryCalculator\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+U:\Personal\GitPractice\SalaryCalculator\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+U:\Personal\GitPractice\SalaryCalculator\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+U:\Personal\GitPractice\SalaryCalculator\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+U:\Personal\GitPractice\SalaryCalculator\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+U:\Personal\GitPractice\SalaryCalculator\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
